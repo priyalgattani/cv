@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  background-color: #FFEFEF;
+}
+
+div {
+  background-color: #FFEFEF;
+  width: 100%;
+  padding-top: 6%;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Cookie', cursive;
+  font-size: 540%;
+  color:#557386;
+  height: 2;
+}
+
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  color: #7c99ac;
+  font-size: 2.25rem;
+  margin: 0;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Cormorant Garamond', serif;
+  color: #7c99ac;
+  margin: 0;
+}
+
+a
+{
+  color: #92A9BD;
+}
+hr {
+  border: dotted;
+  border-color: #D3DEDC;
+  border-width: 5px 0 0;
+  background-color: #FFEFEF;
+  width: 5%
+}
+.skill-row {
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile {
+  width: 50%;
+  margin: 50px auto 100px auto;
+}
+
+.bottom-container {
+  background-color: #c2cfda;
+  padding-top: 5px;
+  margin-bottom: 0;
+}
+
+.contact-me {
+
+  width: 50%;
+  margin: 50px auto 100px auto;
+}
+
+.skill-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.quote {
+  font-family: 'Sacramento', cursive;
+}
+
+.copyright {
+  color: #FFEFEF;
+}
+
+.footer-link {
+  color: #557386;
+}
+
+.cloud-one {
+  position: absolute;
+  left: 15%;
+  top: 5%;
+  height: 95px;
+}
+
+.cloud-two {
+  position: absolute;
+  right: 15%;
+  top: 5%;
+  height: 95px;
+}
+
+.mountain {
+  height: 300px;
+  padding-top: 50px;
+}
+
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #97b5cc;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #bde0fc;
+  text-decoration: none;
+}
